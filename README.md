@@ -1,2 +1,50 @@
-# tcpdump-network-analysis
-Network traffic analysis using tcpdump to indentify suspicious activity
+# Network Traffic Analysis Lab
+
+This project demonstrates network traffic analysis performed in a cybersecurity training lab environment.
+
+---
+
+## Objective
+
+Analyze captured network traffic and identify potential suspicious activity.
+
+---
+
+## Environment
+
+Online Cybersecurity Lab (Google Cybersecurity Certificate)
+
+---
+
+## Tools Used
+
+• tcpdump  
+• Linux  
+• Network traffic logs  
+
+---
+
+## Analysis Summary
+
+Network traffic was analyzed to identify:
+
+• DNS traffic  
+• HTTP/HTTPS connections  
+• Internal network communication  
+
+This activity simulates tasks performed by SOC Analysts.
+
+---
+
+## Skills Demonstrated
+
+• Network traffic analysis  
+• Security monitoring  
+• Threat detection fundamentals  
+
+---
+
+## Author
+
+Guilherme Pigoso  
+Aspiring SOC Analyst
