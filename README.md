@@ -44,6 +44,14 @@ This activity simulates tasks performed by SOC Analysts.
 
 ---
 
+## Report
+
+You can view the full report here:
+
+[Download PDF](traffic-analysis-report.pdf)
+
+---
+
 ## Author
 
 Guilherme Pigoso  
